@@ -1,0 +1,52 @@
+Name,Type,Date
+Attention,Research,2014-09-14
+NVIDIA Tesla K80,Hardware,2014-11-17
+Google TPU v1,Hardware,2015-05-15
+NVIDIA P100,Hardware,2016-04-05
+Google TPU v2,Hardware,2017-05-01
+RLHF,Research,2017-07-12
+Google TPU v3,Hardware,2018-05-18
+Transformers,Research,2018-06-18
+Google TPU v4i,Hardware,2020-01-01
+Long context,Research,2020-01-13
+Scaling laws,Research,2020-01-23
+RAG,Research,2020-05-22
+GPT,Model Family,2020-06-11
+NVIDIA A100 SXM4 80 GB,Hardware,2020-11-16
+Google TPU v4,Hardware,2021-05-20
+CoT,Research,2022-01-28
+Alignment,Research,2022-03-04
+PaLM,Model Family,2022-04-04
+NVIDIA H100 PCIe,Hardware,2022-09-20
+RLAIF,Research,2022-12-15
+Agents,Research,2023-02-09
+Llama,Model Family,2023-02-24
+Claude,Model Family,2023-03-14
+LaMDA,Model Family,2023-03-21
+Agentic,Research,2023-03-30
+Quantization,Research,2023-05-23
+Google TPU v5e,Hardware,2023-08-29
+Whisper,Model Family,2023-11-06
+Google TPU v5p,Hardware,2023-12-06
+Mixtral,Model Family,2023-12-11
+Gemini,Model Family,2024-02-15
+Multimodal,Research,2024-03-08
+Grok,Model Family,2024-03-17
+MoE,Research,2024-03-28
+Hybrid SSM,Research,2024-03-28
+Small LLM,Research,2024-04-22
+Qwen,Model Family,2024-06-07
+Mistral Large,Model Family,2024-07-24
+o-series,Model Family,2024-09-12
+NVIDIA B100,Hardware,2024-11-15
+DeepSeek,Model Family,2024-12-26
+DeepSeek-VL,Model Family,2025-01-15
+Sora,Model Family,2025-02-15
+Mistral Medium,Model Family,2025-05-07
+Magistral,Model Family,2025-06-10
+GPT-OSS,Model Family,2025-08-05
+Imagen,Model Family,2025-08-12
+DALL-E,Model Family,2025-10-14
+Mistral,Model Family,2025-12-02
+Mistral OCR,Model Family,2025-12-17
+Veo,Model Family,2026-01-20
